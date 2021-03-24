@@ -91,10 +91,16 @@ label[for="new-task"] {
   margin: 0 0 20px;
 }
 #new-task {
+  margin: 1em 0;
   width: 318px;
   box-sizing: border-box;
 }
-p > button:hover {
+
+#add-item {
+  margin: 1em 0;
+}
+
+#add-item > button:hover {
   color: #0FC57C;
 }
 
