@@ -21,7 +21,7 @@ body {
 .header-matrix { text-align: center;
 }
 }
-.centered-main-page {
+.main {
   display: block;
   width: 400px;
   margin: 0 auto 0;
