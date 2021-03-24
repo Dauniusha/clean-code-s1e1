@@ -29,6 +29,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
+  box-sizing: border-box;
 }
 ul {
   margin:0;
@@ -86,6 +87,7 @@ label[for="new-task"] {
 }
 input#new-task {
   width: 318px;
+  box-sizing: border-box;
 }
 p > button:hover {
   color: #0FC57C;
